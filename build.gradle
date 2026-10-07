@@ -1,0 +1,5 @@
+plugins { id 'com.android.application' }
+
+android { namespace 'com.vila.ai'; compileSdk 35
+    defaultConfig { applicationId 'com.vila.ai'; minSdk 23; targetSdk 35; versionCode 9; versionName '9.0.0' }
+}
